@@ -1,6 +1,6 @@
 #include "main.h"
 
-//print characters
+/* print characters */
 int main(void)
 {
 	char X[] = "_putchar";
