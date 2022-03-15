@@ -6,7 +6,7 @@ int main(void)
 	char X[] = "_putchar";
 	int Y;
 	
-	for (Y = 0; Y < 3; Y++)
+	for (Y = 0; Y < 9; Y++)
 	{
 		_putchar(X[Y]);
 	}
