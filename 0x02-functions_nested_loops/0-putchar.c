@@ -5,14 +5,14 @@
  **/
 int main(void)
 {
-      	char x[] = "_putchar";
+	char x[] = "_putchar";
 
 	      int Y;
 
-      	for (Y = 0; Y < 8; Y++)
-      	{
-		            _putchar(x[Y]);
-      	}
-      	_putchar('\n');
-      	return (0);
+	for (Y = 0; Y < 8; Y++)
+	{
+		_putchar(x[Y]);
+	}
+	_putchar('\n');
+	return (0);
 }
