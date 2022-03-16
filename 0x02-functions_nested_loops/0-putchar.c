@@ -11,7 +11,7 @@ int main(void)
 
       	for (Y = 0; Y < 8; Y++)
       	{
-		            _putchar(x[k]);
+		            _putchar(x[Y]);
       	}
       	_putchar('\n');
       	return (0);
