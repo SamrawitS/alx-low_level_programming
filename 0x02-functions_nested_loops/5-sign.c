@@ -3,6 +3,7 @@
  * print_sign - prints the sign of a number
  *  takes an integer
  * Return: 1 if n is > zero, 0 if n is zero, -1 if n is < zero
+ * n is the number inserted
  */
 int print_sign(int n)
 {
